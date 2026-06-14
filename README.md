@@ -10,7 +10,6 @@
 | Charugundla Santhisree | AI Integration            |
 | Dadi Lakshmi Bhavana   | UI Development            |
 | Boda Meenakshi         | Database Development      |
-<<<<<<< HEAD
 ---
 =======
 
