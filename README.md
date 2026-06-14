@@ -3,15 +3,8 @@
 
 ## 👥 Team Details
 * **Team Name:** [Insert Your Team Name Here]
-* **Team Members:**
-
-<<<<<<< HEAD
-  | Name                   | Role                      |
-=======
-## Team Members
 
 | Name                   | Role                      |
->>>>>>> 8f8e9ae6d3a64d69cdcb2697c043aba3aa99a759
 | ---------------------- | ------------------------- |
 | Neha Reddy             | Backend & Documentation   |
 | Charugundla Santhisree | AI Integration            |
@@ -185,3 +178,4 @@ pytest test_app.py -v
 
 ## Resumes
 [Nehareddy](https://drive.google.com/file/d/1X3aZCDc1kjDdoN2Mb6HCdkjKJq6wTOIa/view?usp=drivesdk)
+[Meenakshi](https://drive.google.com/file/d/11KQbctSrG4xHzOSWjICCslbWCiDQh1U5/view?usp=drivesdk)
