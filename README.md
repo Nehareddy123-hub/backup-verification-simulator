@@ -2,7 +2,7 @@
 # Backup-Verification-Simulator
 
 ## 👥 Team Details
-* **Team Name:** [Insert Your Team Name Here]
+* **Team Name:** Dataguard
 
 | Name                   | Role                      |
 | ---------------------- | ------------------------- |
@@ -11,10 +11,6 @@
 | Dadi Lakshmi Bhavana   | UI Development            |
 | Boda Meenakshi         | Database Development      |
 ---
-=======
-
-## Features Implemented
->>>>>>> 8f8e9ae6d3a64d69cdcb2697c043aba3aa99a759
 
 ## 🎥 Demo Video Link
 👉 **[https://drive.google.com/file/d/1SpUh4oJrUSeFMU1WbGIwB0evZMR9-sS8/view?usp=drivesdk]*(5-7 minute demonstration showcasing happy path execution, sandbox restoration failures, LLM reporting, and live automated GitHub ticketing).*
@@ -37,7 +33,6 @@
 
 ---
 
-<<<<<<< HEAD
 ## 🏗️ Architecture Overview
 =======
 1. Clone the repository:
@@ -64,7 +59,6 @@
    GITHUB_TOKEN=your_github_personal_access_token_here
    GITHUB_REPO=yourusername/your-repo-name
    ```
->>>>>>> 8f8e9ae6d3a64d69cdcb2697c043aba3aa99a759
 
 The application implements a linear **Input ➡️ Processing ➡️ AI Layer ➡️ Output** workflow architecture matching corporate prototype guidelines:
 
@@ -107,7 +101,6 @@ v (If Failure Detected)                              |
 * A GitHub Personal Access Token (PAT) with repository write permissions.
 * An active OpenAI API token key credential.
 
-<<<<<<< HEAD
 ### 1. Clone the Project Repository
 ```bash
 git clone [https://github.com/Nehareddy123-hub/Backup-verification-simulator1.git](https://github.com/Nehareddt123-hub/Backup-verification-simulator1.git)
@@ -172,10 +165,9 @@ pytest test_app.py -v
 
 ## Demo Video Link
 [Watch Backup Verification Simulator Demo](https://drive.google.com/file/d/1SpUh4oJrUSeFMU1WbGIwB0evZMR9-sS8/view?usp=drivesdk)
->>>>>>> 8f8e9ae6d3a64d69cdcb2697c043aba3aa99a759
->>>>>>>
 
 ## Resumes
 [Nehareddy](https://drive.google.com/file/d/1X3aZCDc1kjDdoN2Mb6HCdkjKJq6wTOIa/view?usp=drivesdk)
 [Meenakshi](https://drive.google.com/file/d/11KQbctSrG4xHzOSWjICCslbWCiDQh1U5/view?usp=drivesdk)
 [Laksmi Bhavana](https://drive.google.com/file/d/1RJbs5Sv4KFplErq3mIvAY3mhxKUgW6SI/view?usp=drivesdk)
+[Santhisree](https://docs.google.com/document/d/16bQGP6NCLjv6dvtqutbUHLgSLiiz_ruK/edit?usp=drivesdk&ouid=114174249329038456558&rtpof=true&sd=true)
